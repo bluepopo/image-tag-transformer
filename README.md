@@ -17,7 +17,7 @@ This is a python script that transforms the image tag format from markdown to ht
 
 ----
 
-## Demo 工作流程演示
+## Demo 使用过程演示
 
-![工作流程演示](https://i.loli.net/2020/06/07/dlihEXrFoTq85Gm.gif)
+![使用过程演示](https://i.loli.net/2020/06/07/dlihEXrFoTq85Gm.gif)
 
