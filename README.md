@@ -5,10 +5,19 @@ This is a python script that transforms the image tag format from markdown to ht
 
 
 
-## How to use
+## How to use 如何使用
 
 将需要转换的文件放到 `input` 文件夹中
 
 点击 `Transformer.py` 运行文件
 
 转换后的文件存放在 `output` 文件夹中
+
+
+
+----
+
+## Demo 工作流程演示
+
+![工作流程演示](https://i.loli.net/2020/06/07/dlihEXrFoTq85Gm.gif)
+
