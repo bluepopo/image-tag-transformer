@@ -39,8 +39,11 @@ def transform(input_path, output_path, file_name):
     '''
         output
     '''
-    
-    f_out = open(dst_url, 'w')
+    f_out = open(dst_url, 'w', encoding='utf-8')
+
+    # head_line = "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">"
+    # f_out.write(head_line)
+    # f_out.write("\n\n")
     
     for raw_line in lines:
         line = raw_line
